@@ -1,7 +1,5 @@
 <?php
-	
 
-	
 	class PolygonsCollision {
 		/**
 		 * This class check if two 2D polygons have intersections
